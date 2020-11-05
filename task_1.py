@@ -1,4 +1,4 @@
-age =int(input("How old are you? "))
+age = int(input("How old are you? "))
 
 if age < 12:
     print("You can only watch U films and PG films if accompanied by parents")
